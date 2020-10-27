@@ -14,7 +14,7 @@ chardet==3.0.4
 Click==7.0
 conda==4.7.10
 conda-package-handling==1.6.0
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 dash==0.39.0
 dash-core-components==0.44.0
