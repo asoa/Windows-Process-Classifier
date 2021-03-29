@@ -75,7 +75,7 @@ py4j==0.10.7
 pycosat==0.6.3
 pycparser==2.19
 pycurl==7.43.0.3
-Pygments==2.4.2
+Pygments==2.7.4
 PyJWT==1.7.1
 pykerberos==1.2.1
 pyOpenSSL==19.0.0
